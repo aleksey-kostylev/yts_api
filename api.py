@@ -411,3 +411,4 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
 os.remove('YT_data.xlsx')
 os.remove('YT_data.json')
 print('Отправка данных завершена!')
+print('script made by akonomichi')
